@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/0610-triangle-judgement) |
+| [1148-article-views-i](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1942-primary-department-for-each-employee) |
