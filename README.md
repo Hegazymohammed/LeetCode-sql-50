@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1934-confirmation-rate](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1934-confirmation-rate) |
 | [1942-primary-department-for-each-employee](https://github.com/Hegazymohammed/LeetCode-sql-50/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
